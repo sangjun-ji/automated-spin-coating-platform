@@ -1,1 +1,2 @@
-# Automated Spin-Coating Platform (ASCP)
+# ASCP
+>Automated Spin-Coating Platform
